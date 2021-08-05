@@ -1,4 +1,4 @@
-﻿Year,Conf,Team,Wins,Loss,Prorated Win,Salary,cost per win,champ,Finals,playoffs
+﻿Year,Conf,Team,Wins,Loss,prorated_win,salary,cost_per_win,champ,finals,playoffs
 2021,Southeast,Atlanta Hawks,41,31,47,124876549.00,2674334.18,0,0,1
 2021,Atlantic,Boston Celtics,36,36,41,139125550.00,3393306.10,0,0,1
 2021,Atlantic,Brooklyn Nets,48,24,55,170139057.00,3112299.82,0,0,1
